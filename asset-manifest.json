@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Arshad-Portfolio/static/css/main.f09fc1ef.css",
+    "main.js": "/Arshad-Portfolio/static/js/main.a9645dc0.js",
+    "static/js/787.1f11dfe9.chunk.js": "/Arshad-Portfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/color-sharp.png": "/Arshad-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/photo1.png": "/Arshad-Portfolio/static/media/photo1.69fde118787eb0bd5ece.png",
+    "static/media/banner.jpg": "/Arshad-Portfolio/static/media/banner.cf71c8f51738f1782027.jpg",
+    "static/media/header-img.svg": "/Arshad-Portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/Arshad-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Arshad-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Arshad-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Arshad-Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/Arshad-Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/Arshad-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Arshad-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Arshad-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/Arshad-Portfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/Arshad-Portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/Arshad-Portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/Arshad-Portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon4.svg": "/Arshad-Portfolio/static/media/nav-icon4.ab75ec34d2f5b66e0c7b792bf16e46c2.svg",
+    "index.html": "/Arshad-Portfolio/index.html",
+    "static/media/nav-icon1.svg": "/Arshad-Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/Arshad-Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.f09fc1ef.css.map": "/Arshad-Portfolio/static/css/main.f09fc1ef.css.map",
+    "main.a9645dc0.js.map": "/Arshad-Portfolio/static/js/main.a9645dc0.js.map",
+    "787.1f11dfe9.chunk.js.map": "/Arshad-Portfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09fc1ef.css",
+    "static/js/main.a9645dc0.js"
+  ]
+}
